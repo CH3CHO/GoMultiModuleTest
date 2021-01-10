@@ -1,5 +1,8 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/CH3CHO/GoMultiModuleTest v0.0.0-20210110021328-158f731ff549 h1:ctR5G1LUTZgqLC6KYrs1VMTnoirXIvneuWm12r/hZpQ=
+github.com/CH3CHO/GoMultiModuleTest/core v0.0.0-20210110021328-158f731ff549 h1:KigkPl3+5TrPj0n17TK0TgJnLxrAufDX1K/zqxu/c58=
+github.com/CH3CHO/GoMultiModuleTest/core v0.0.0-20210110021328-158f731ff549/go.mod h1:Majuj0wMgoYFDX0XxLTsTUmLQMKCWTZ+ChMsAwWALUs=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

@@ -3,6 +3,7 @@ module github.com/CH3CHO/GoMultiModuleTest/api
 go 1.14
 
 require (
+	github.com/CH3CHO/GoMultiModuleTest/core v0.0.0-20210110021328-158f731ff549
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-playground/validator/v10 v10.4.1 // indirect
 	github.com/golang/protobuf v1.4.3 // indirect
